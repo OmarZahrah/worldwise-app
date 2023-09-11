@@ -1,0 +1,52 @@
+{
+  "cities": [
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-09-11T03:42:39.387Z",
+      "notes": "weekend trip\n",
+      "position": {
+        "lat": "40.442846247422025",
+        "lng": "-3.713377190956353"
+      },
+      "id": 1
+    },
+    {
+      "cityName": "Sant Katrin",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "2023-09-11T03:43:18.830Z",
+      "notes": "amazing experience ",
+      "position": {
+        "lat": "28.56462085105155",
+        "lng": "33.97109901754898"
+      },
+      "id": 2
+    },
+    {
+      "cityName": "Sharm el-Sheikh",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "2023-09-11T03:44:09.991Z",
+      "notes": "amazing moments with family",
+      "position": {
+        "lat": "27.825915280292772",
+        "lng": "34.2416398780608"
+      },
+      "id": 3
+    },
+    {
+      "cityName": "Rome",
+      "country": "Italy",
+      "emoji": "🇮🇹",
+      "date": "2023-09-11T03:45:13.894Z",
+      "notes": "test\n",
+      "position": {
+        "lat": "41.86901195591927",
+        "lng": "12.502441515845776"
+      },
+      "id": 4
+    }
+  ]
+}
