@@ -23,7 +23,6 @@
 <p align="center"><img src="./screenShots/login.png" alt="login page"></p>
 
 <p align="center"><img src="./screenShots/p1.png" alt="app"></p>
-<p align="center"><img src="./screenShots/p1.png" alt="app"></p>
 <p align="center"><img src="./screenShots/form.png" alt="form"></p>
 <p align="center"><img src="./screenShots/details.png" alt="details"></p>
 
